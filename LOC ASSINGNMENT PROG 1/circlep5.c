@@ -1,0 +1,21 @@
+//wap to enter the radius of a circle and find its diameter circumference and its area
+#include<stdio.h>
+#include<conio.h>
+
+int main()
+{
+    float r, d, c, area;
+
+    printf("Enter radius of circle: ");
+    scanf("%f", &r);
+
+
+    d = 2 * r;
+    c = 2 * 3.14 * r;
+    area = 3.14 * (r*r);
+    printf("Diameter of circle = %f \n", d);
+    printf("Circumference of circle = %f \n", c);
+    printf("Area of circle = %f\n ",area);
+
+    return 0;
+}
