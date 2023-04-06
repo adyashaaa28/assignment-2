@@ -1,0 +1,6 @@
+//6. Choose the correct statement about structures in C program:
+a. Structure elements can be initialized at the time of declaration.
+b. Structure members cannot be initialized at the time of declaration
+c. Only integer members of structure can be initialized at the time of declaration
+d. None of the above //
+//The correct statement about structures in a C program is a. Structure elements can be initialized at the time of declaration.
